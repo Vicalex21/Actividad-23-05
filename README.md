@@ -19,5 +19,8 @@
 
 ---
 
-##
+## Diagrama de implementacion 
+
+1. puede existir algun problema al momento de diagramar la clases ya que la base de datos deberia de estar en la parte superior de la imagen.
+2. 
    
